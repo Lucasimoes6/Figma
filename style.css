@@ -9,14 +9,6 @@ main {
     display: flex;
 }
 
-.left {
-
-}
-
-.right {
-
-}
-
 .container1 {
     width: 540px;
     height: 204px;
@@ -31,7 +23,6 @@ main {
     width: 255px;
     height: 138px;
 }
-
 
 h1 {
     font-size: 36px;
